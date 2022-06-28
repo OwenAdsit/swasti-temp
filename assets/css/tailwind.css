@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: 'ginger';
+        src: url(~assets/fonts/Ginger.ttf) format('ttf'),
+            url(~assets/fonts/Ginger.otf) format('otf'),
+            url(~assets/fonts/Ginger.woff) format('woff');
+    },
+    body {
+        @apply font-gilda text-sm
+    }
+}
