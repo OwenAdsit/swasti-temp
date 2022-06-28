@@ -14,7 +14,7 @@ export default {
 
     ],
     link: [
-      // { rel: 'icon', type: 'image/x-icon', href: '/logo/Swasti.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: '/logo/Swasti.ico' },
       { rel: 'icon', type: 'image/svg', href: '/logo/Swasti.svg' },
       { rel: 'apple-touch-icon', href: '/logo/Swasti.png' },
       { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
