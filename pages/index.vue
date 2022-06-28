@@ -18,8 +18,8 @@
           <SVGLogoWName />
         </div>
       </div>
-      <h1 ref="title" class="font-ginger capitalize mb-5 text-l xl:text-xl">
-        we'll be right back!
+      <h1 ref="title" class="font-ginger mb-5 text-l xl:text-xl">
+        We'll Be Right Back!
       </h1>
       <p class="mb-10 max-w-xl mx-auto font-thin fade-in">
         We appreciate your patience as we prepare our website for its big
