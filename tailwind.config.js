@@ -32,9 +32,9 @@ module.exports = {
     },
     fontSize: {
       sm: '15px',
-      'md--mobile': '25px',
+      'md--mobile': '20px',
       md: '45px',
-      l: '50px',
+      l: '35px',
       xl: '110px'
     },
     container: {

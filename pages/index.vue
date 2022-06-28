@@ -11,8 +11,8 @@
     "
   >
     <div class="text-center w-full pt-4 xl:pt-40">
-      <div class="absolute top-44 xl:top-16 inset-x-24">
-        <div class="w-36 mx-auto">
+      <div class="absolute top-28 xl:top-16 inset-x-0">
+        <div class="w-28 xl:w-36 mx-auto">
           <SVGLogoWName />
         </div>
       </div>
