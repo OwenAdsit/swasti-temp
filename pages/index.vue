@@ -46,7 +46,7 @@ export default {
     const titleSplit = new this.$SplitText(this.$refs.title, { type: 'chars' })
     tl.from(this.$refs.contentContainer, { autoAlpha: 0, duration: 0 })
     tl.fade(titleSplit.chars)
-    tl.fade('.fade-in', { stagger: 0.3 }, '-=.8')
+    tl.fade('.fade-in', { stagger: 0.3 }, '-=.6')
   },
 }
 </script>
