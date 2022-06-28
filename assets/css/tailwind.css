@@ -10,6 +10,7 @@
             url(~assets/fonts/Ginger.woff) format('woff');
     },
     body {
-        @apply font-gilda text-sm
+        font-family: 'Lato', system-ui, sans-serif;
+        @apply text-sm
     }
 }
