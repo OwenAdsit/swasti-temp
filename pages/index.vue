@@ -27,14 +27,30 @@
         questions or enquiries you may have, and we will get back to you within
         the next 48h.
       </p>
-      <UIUnderlineAnim class="fade-in">
-        <a
-          class="font-ginger text-md--mobile xl:text-md leading-none"
-          target="_blank"
-          href="mailto:"
-          >info@baliswasti.com</a
-        >
-      </UIUnderlineAnim>
+      <div>
+        <ul class="space-y-2 xl:space-y-4">
+          <li>
+            <UIUnderlineAnim class="fade-in">
+              <a
+                class="font-ginger text-md--mobile xl:text-md leading-none"
+                target="_blank"
+                href="mailto:info@baliswasti.com"
+                >info@baliswasti.com</a
+              >
+            </UIUnderlineAnim>
+          </li>
+          <li>
+            <UIUnderlineAnim class="fade-in">
+              <a
+                class="font-ginger text-md--mobile xl:text-md leading-none"
+                target="_blank"
+                href="https://wa.me/+6281139610144"
+                >WhatsApp</a
+              >
+            </UIUnderlineAnim>
+          </li>
+        </ul>
+      </div>
     </div>
   </main>
 </template>
