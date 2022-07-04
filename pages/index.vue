@@ -23,7 +23,7 @@
       </h1>
       <p class="mb-10 max-w-xl mx-auto font-thin fade-in">
         We appreciate your patience as we prepare our website for its big
-        relaunch on July 4th 2022. In the meantime, send us an email with any
+        relaunch on July 2022. In the meantime, send us an email with any
         questions you may have, and we will get back to you within the next 48h.
         For more urgent enquiries, please contact us through WhatsApp.
       </p>
